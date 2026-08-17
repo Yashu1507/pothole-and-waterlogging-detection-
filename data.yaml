@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['0', 'object', 'waterlogging']
+
+roboflow:
+  workspace: yolo-and-car-accident-detection-xaltb
+  project: waterlogging
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-and-car-accident-detection-xaltb/waterlogging/dataset/2

@@ -1,0 +1,14 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+runs/
+my_test_images/
+
+# Dataset images and labels
+train/
+valid/
+test/
+train_backup/
+valid_backup/
+test_backup/
