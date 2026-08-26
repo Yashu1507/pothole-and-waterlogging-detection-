@@ -1,0 +1,8 @@
+path: C:/Users/M.N THUSHAR/waterlogging/combined_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: pothole
+  1: waterlogging
